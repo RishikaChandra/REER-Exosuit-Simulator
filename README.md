@@ -19,8 +19,8 @@ This project explores how adjustable assist levels and lift durations affect joi
 
 ## Demo
 
-![Simulator Demo](<img width="1920" height="1080" alt="Screenshot (706)" src="https://github.com/user-attachments/assets/fbc13d95-db67-4614-84d2-9fd87bde6982" />
-)  
+<img width="1920" height="1080" alt="Screenshot (706)" src="https://github.com/user-attachments/assets/a8d483d3-7992-47ac-b79b-e5194e2ba81d" />
+
 *Drag sliders and click buttons to see how assist levels impact fatigue.*
 
 ---
@@ -40,6 +40,7 @@ This project explores how adjustable assist levels and lift durations affect joi
 ---
 
 ## File Structure
+
 
 
 
