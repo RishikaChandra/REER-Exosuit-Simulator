@@ -32,7 +32,7 @@ This project explores how adjustable assist levels and lift durations affect joi
 - MATLAB App Designer (for `.mlapp` file)  
 
 ### How to Run
-1. Open `REER_Simulator.mlapp` in MATLAB App Designer  
+1. Open `REER_GUI.mlapp` in MATLAB App Designer  
 2. Click **Run**  
 3. Adjust sliders for lift duration and assist level  
 4. Observe torque and fatigue plots in real-time
@@ -40,5 +40,6 @@ This project explores how adjustable assist levels and lift durations affect joi
 ---
 
 ## File Structure
+
 
 
