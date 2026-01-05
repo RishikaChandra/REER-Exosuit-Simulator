@@ -38,9 +38,18 @@ This project explores how adjustable assist levels and lift durations affect joi
 3. Adjust sliders for lift duration and assist level  
 4. Observe torque and fatigue plots in real-time
 
+- Learned MATLAB basics: scripting, plotting, App Designer  
+- Built a tool to **simulate human-robot interaction** in emergency rescue  
+- Next: integrate more joints, automate batch simulations, and explore **MATLAB Web App** deployment  
+
 ---
 
-## File Structure
+## Author
+
+**Rishika Chandra Putta**  
+- LinkedIn: [www.linkedin.com/in/rishika-chandra-putta]  
+
+
 
 
 
